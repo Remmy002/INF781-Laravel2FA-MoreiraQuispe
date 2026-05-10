@@ -15,6 +15,3 @@ Este proyecto implementa un sistema de seguridad 2FA utilizando el paquete Googl
 5. Ejecutar migraciones: `php artisan migrate`
 6. Iniciar servidor: `php artisan serve`
 
-## Contacto
-* Nombre: [Tu Nombre Completo]
-* Carrera: Ingeniería Informática - U.A.T.F.
